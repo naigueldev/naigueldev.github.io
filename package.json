@@ -1,0 +1,28 @@
+{
+  "name": "niazoweb",
+  "version": "1.0.0",
+  "description": "NIAZO WEB",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "deploy": "aws s3 sync ./dist s3://niazoweb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naigueldev/niazoweb.git"
+  },
+  "keywords": [
+    "niazoweb",
+    "são sepé",
+    "sites",
+    "aplicativos",
+    "sistemas",
+    "web studio"
+  ],
+  "author": "Niazo Web",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naigueldev/niazoweb/issues"
+  },
+  "homepage": "https://github.com/naigueldev/niazoweb#readme"
+}
