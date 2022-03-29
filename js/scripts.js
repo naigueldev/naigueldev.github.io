@@ -86,7 +86,7 @@ $(function () {
             startAngle: -Math.PI / 4 * 2,
             value: myVal,
             fill: {
-                gradient: ["#EE3158", "#e1284e"]
+                gradient: ["#5e44a0", "#e1284e"]
             }
         });
 
